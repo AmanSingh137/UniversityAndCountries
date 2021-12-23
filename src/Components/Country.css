@@ -3,6 +3,7 @@
     margin-left: 29%;
 }
 
+
 .footer-show {
     display: none;
 }
@@ -19,4 +20,9 @@
 
 .top-header{
     margin-top: 200px;
+    color: rgb(17, 186, 192);
+}
+
+.middle-header{
+    color: rgb(17, 186, 192);
 }
