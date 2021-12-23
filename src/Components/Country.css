@@ -1,0 +1,22 @@
+.countries {
+    width: 650px;
+    margin-left: 29%;
+}
+
+.footer-show {
+    display: none;
+}
+
+.footer {
+    margin-top: 3%;
+    margin-left: 1%;
+    margin-bottom: 5%;
+}
+
+.footer h5 {
+    color: rgb(17, 186, 192);
+}
+
+.top-header{
+    margin-top: 200px;
+}

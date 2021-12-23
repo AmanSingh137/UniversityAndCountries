@@ -1,0 +1,26 @@
+.list-items {
+    list-style: none;
+}
+
+.body-con {
+    align-items: center;
+    margin-top: 15%;
+    margin-left: 25%;
+}
+
+.uni {
+    font-weight: bold;
+    color: rgb(236, 97, 97);
+}
+
+.university{
+    color: rgb(32, 129, 129);
+}
+
+.state{
+    color: green;
+}
+
+.websites{
+    color: rgb(236, 97, 97);
+}
